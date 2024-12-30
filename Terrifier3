@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    html, body { margin: 0; padding: 0; height: 100%; display: flex; flex-direction: column; }
+    iframe { flex: 1; width: 100%; border: none; }
+    .ad { height: 100px; background: #f0f0f0; border-top: 1px solid #ccc; display: flex; align-items: center; justify-content: center; }
+</style>
+</head>
+<body>
+    <!-- Iframe at the top -->
+    <iframe src="https://www.2embed.cc/embed/tt27911000" allowfullscreen></iframe>
+    
+    <!-- Ad at the bottom -->
+    <div class="ad">
+        <script>var afg={u:6488,s:4};document.write("<scr"+"ipt src='//js.adforgames.com/cd.js'></scr"+"ipt>");</script>
+    </div>
+</body>
+</html>
